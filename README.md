@@ -2,7 +2,6 @@
 
 ![image](https://raw.githubusercontent.com/alexrony21/Aol-Valid-Email-Checker/refs/heads/main/Aol_Valid_Email_Checker.png)
 
-
 ## Features
 
 - **Bulk Checking**: Import a list of emails from a `.txt` file for batch checking.
